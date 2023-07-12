@@ -5,7 +5,7 @@
 <div align="center">
  <h1>
  <a href="https://youtu.be/-zNDuX9tTr8">
-  구경하러 가기
+  시연영상 보러가기(클릭)
  </a>
  </h1>
 </div>
